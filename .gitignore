@@ -1,0 +1,180 @@
+# =========================
+
+# Visual Studio
+
+# =========================
+
+.vs/
+.vscode/
+
+# User-specific files
+
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio cache
+
+*.sln.docstates
+
+# =========================
+
+# .NET / Build
+
+# =========================
+
+bin/
+obj/
+
+# Test results
+
+TestResults/
+*.trx
+
+# Coverage
+
+coverage/
+*.coverage
+*.coveragexml
+
+# =========================
+
+# NuGet
+
+# =========================
+
+*.nupkg
+*.snupkg
+
+# NuGet packages folder
+
+packages/
+
+# =========================
+
+# ASP.NET Core
+
+# =========================
+
+# Local development configuration
+
+appsettings.Development.json
+
+# Local secrets
+
+secrets.json
+
+# ASP.NET Core generated files
+
+wwwroot/lib/
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+
+# =========================
+
+# Environment variables
+
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+
+# Database / Local data
+
+# =========================
+
+*.db
+*.db-shm
+*.db-wal
+
+# Local PostgreSQL data
+
+postgres-data/
+
+# =========================
+
+# Docker
+
+# =========================
+
+docker-data/
+.docker/
+
+# =========================
+
+# OS files
+
+# =========================
+
+# Windows
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+
+.DS_Store
+
+# Linux
+
+*~
+
+# =========================
+
+# JetBrains Rider
+
+# =========================
+
+.idea/
+*.sln.iml
+
+# =========================
+
+# ReSharper
+
+# =========================
+
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# =========================
+
+# Generated files
+
+# =========================
+
+*.generated.cs
+*.g.cs
+
+# =========================
+
+# Publish
+
+# =========================
+
+publish/
+wwwroot/
+
+# =========================
+
+# Temporary files
+
+# =========================
+
+*.tmp
+*.temp
+*.swp
+*.bak

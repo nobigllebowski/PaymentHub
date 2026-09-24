@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PaymentHub.Application/PaymentHub.Application.csproj" />
+    <Project Path="src/PaymentHub.Domain/PaymentHub.Domain.csproj" />
+    <Project Path="src/PaymentHub.Infrastructure/PaymentHub.Infrastructure.csproj" />
+    <Project Path="src/PaymentHub/PaymentHub.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
