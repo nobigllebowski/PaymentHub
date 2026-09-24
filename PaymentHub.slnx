@@ -6,6 +6,7 @@
     <Project Path="src/PaymentHub/PaymentHub.csproj" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="PaymentHub.Unit/PaymentHub.Unit.csproj" Id="d7df2379-1011-4cb6-a7b4-c99d362f6a53" />
+    <Project Path="tests/PaymentHub.Integration/PaymentHub.Integration.csproj" Id="7553b4a2-59a3-4032-9752-29a3d78068c1" />
+    <Project Path="tests/PaymentHub.Unit/PaymentHub.Unit.csproj" />
   </Folder>
 </Solution>
